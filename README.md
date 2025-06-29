@@ -4,7 +4,6 @@ Aplikasi mobile cross-platform (iOS & Android) yang dibangun menggunakan React N
 
 ![Tangkapan Layar Aplikasi](./assets/screenshot-aplikasi.jpg)
 
-*(Untuk mengganti gambar di atas: Ambil screenshot aplikasi Anda, unggah ke situs seperti [ImgBB](https://imgbb.com/), lalu ganti URL di atas dengan URL gambar Anda)*
 
 ---
 
