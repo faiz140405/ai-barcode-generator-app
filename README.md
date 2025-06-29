@@ -2,7 +2,7 @@
 
 Aplikasi mobile cross-platform (iOS & Android) yang dibangun menggunakan React Native untuk membuat Barcode dan QR Code secara dinamis. Aplikasi ini dirancang dengan antarmuka yang bersih dan modern, serta ditenagai oleh kecerdasan buatan (AI) untuk memberikan pengalaman pengguna yang lebih intuitif.
 
-![Tangkapan Layar Aplikasi](./assets/screenshot-aplikasi.png)
+![Tangkapan Layar Aplikasi](./assets/screenshot-aplikasi.jpg)
 
 *(Untuk mengganti gambar di atas: Ambil screenshot aplikasi Anda, unggah ke situs seperti [ImgBB](https://imgbb.com/), lalu ganti URL di atas dengan URL gambar Anda)*
 
